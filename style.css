@@ -242,27 +242,6 @@ nav ul{
     transform:translateY(0);
 }
 /* Footer */
-footer {
-    background: #0A2947;
-    color: white;
-    text-align: center;
-    padding: 30px 20px;
-}
-
-footer p {
-    margin-bottom: 15px;
-}
-
-.social-links a {
-    color: #FFBF00;
-    text-decoration: none;
-    margin: 0 10px;
-    transition: 0.3s;
-}
-
-.social-links a:hover {
-    color: white;
-}
 /* Footer */
 
 footer{
