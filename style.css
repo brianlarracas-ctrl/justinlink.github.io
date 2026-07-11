@@ -348,3 +348,25 @@ header{
     -webkit-backdrop-filter: blur(10px);
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
+/* About Section */
+
+#about{
+    padding:100px 0;
+    background:#f8f9fc;
+}
+
+#about h2{
+    text-align:center;
+    font-size:40px;
+    color:#0A2947;
+    margin-bottom:40px;
+}
+
+.about-text{
+    max-width:800px;
+    margin:auto;
+    text-align:center;
+    font-size:18px;
+    line-height:1.9;
+    color:#555;
+}
