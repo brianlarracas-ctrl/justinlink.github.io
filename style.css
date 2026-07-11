@@ -302,3 +302,27 @@ footer p{
     height: auto;
     object-fit: contain;
 }
+/* Navigation Right */
+.nav-right{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+/* Hire Me Button */
+.hire-btn{
+    background:#FFBF00;
+    color:#0A2947;
+    padding:12px 28px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:600;
+    transition:0.3s ease;
+}
+
+.hire-btn:hover{
+    background:white;
+    color:#0A2947;
+    transform:translateY(-3px);
+    box-shadow:0 8px 20px rgba(255,191,0,.35);
+}
