@@ -297,3 +297,8 @@ footer p{
     box-shadow:0 10px 25px rgba(255,191,0,.4);
 
 }
+.circle img {
+    width: 180px;
+    height: auto;
+    object-fit: contain;
+}
