@@ -220,6 +220,19 @@ nav ul{
     text-align:center;
 }
 
+/* Add these */
+.nav-right{
+    flex-direction:column;
+    gap:15px;
+}
+
+.hire-btn{
+    padding:10px 24px;
+}
+
+}
+}
+
 .hero-image{
     margin-top:50px;
 }
