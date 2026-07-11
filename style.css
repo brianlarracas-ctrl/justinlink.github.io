@@ -263,3 +263,58 @@ footer p {
 .social-links a:hover {
     color: white;
 }
+/* Footer */
+
+footer{
+    background:#071c31;
+    color:white;
+    padding:35px 20px;
+    text-align:center;
+}
+
+footer p{
+    margin-bottom:20px;
+    font-size:15px;
+}
+
+.social-icons{
+    display:flex;
+    justify-content:center;
+    gap:18px;
+}
+
+.social-icons a{
+
+    width:50px;
+    height:50px;
+
+    border-radius:50%;
+
+    background:#0A2947;
+
+    color:#FFBF00;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:22px;
+
+    text-decoration:none;
+
+    transition:.35s ease;
+}
+
+.social-icons a:hover{
+
+    background:#FFBF00;
+
+    color:#0A2947;
+
+    transform:translateY(-6px) scale(1.08);
+
+    box-shadow:0 10px 25px rgba(255,191,0,.4);
+
+}
